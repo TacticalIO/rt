@@ -1,0 +1,22 @@
+{
+  "name": "rt",
+  "version": "0.0.1",
+  "description": "Runtime manager for TacticalIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TacticalIO/rt.git"
+  },
+  "keywords": [
+    "runtime"
+  ],
+  "author": "Victor Andritoiu",
+  "license": "Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+  "bugs": {
+    "url": "https://github.com/TacticalIO/rt/issues"
+  },
+  "homepage": "https://github.com/TacticalIO/rt"
+}
