@@ -2,9 +2,9 @@
   "name": "rt",
   "version": "0.0.1",
   "description": "Runtime manager for TacticalIO",
-  "main": "index.js",
+  "main": "rt.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node ./rt.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/TacticalIO/rt/issues"
   },
-  "homepage": "https://github.com/TacticalIO/rt"
+  "homepage": "https://github.com/TacticalIO/rt",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "debug": "^2.1.1",
+    "tio": "git://github.com/TacticalIO/TacticalIO"
+  }
 }

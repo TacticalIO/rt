@@ -1,0 +1,9 @@
+{
+	"mqtt": {
+		"ip": "192.168.0.10",
+		"port": 1883,
+		"syncperiod": 100,
+		"rpctimeout": 500,
+		"datalog": "no"
+	}
+}
